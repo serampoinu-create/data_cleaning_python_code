@@ -1,0 +1,181 @@
+employee_id,name,city,department,join_date,monthly_salary_inr
+E138,Lalrinsanga,Indore,Sales,2026-10-24,17000.0
+E199,Rohit Singh,Indore,IT,2026-04-10,
+E269,Priya Sharma,Imphal,Unknown,2026-06-09,
+E201,Ananya Devi,Indore,Support,2026-01-07,
+E158,Bidyananda Singh,Pune,Support,2026-11-10,23348.0
+E190,Rohit Singh,Pune,Support,2026-08-01,
+E185,Rohit Singh,Guwahati,Unknown,2026-08-14,15152.0
+E278,Priya Sharma,Guwahati,Operations,2026-09-05,22000.0
+E253,Bidyananda Singh,Guwahati,Support,2026-10-21,20000.0
+E206,Bidyananda Singh,Kolkata,Operations,2026-06-18,
+E184,Lalrinsanga,Imphal,Operations,2026-03-21,
+E140,Rohit Singh,Imphal,IT,2026-02-15,21000.0
+E258,Ananya Devi,Imphal,IT,2026-11-15,13724.0
+E107,Rohit Singh,Indore,Unknown,2026-10-15,16070.0
+E246,Ananya Devi,Guwahati,Unknown,2026-06-25,14000.0
+E213,Priya Sharma,Kolkata,Operations,2026-07-03,20000.0
+E135,Rohit Singh,Pune,IT,2026-04-25,
+E234,Bidyananda Singh,Bengaluru,IT,2026-01-22,18000.0
+E238,Priya Sharma,Pune,Unknown,2026-11-02,13000.0
+E223,Ananya Devi,Imphal,Sales,2026-06-14,
+E111,Ananya Devi,Pune,IT,2026-08-03,19000.0
+E162,Lalrinsanga,Indore,Unknown,2026-01-10,13000.0
+E216,Priya Sharma,Guwahati,Operations,2026-05-09,16000.0
+E189,Ananya Devi,Indore,Operations,2026-07-21,17112.0
+E225,Priya Sharma,Imphal,Sales,2026-11-06,
+E196,Bidyananda Singh,Imphal,Operations,2026-07-23,12906.0
+E240,Rohit Singh,Bengaluru,IT,2026-02-07,20058.0
+E248,Priya Sharma,Kolkata,Support,2026-03-10,18000.0
+E105,Rohit Singh,Guwahati,Sales,2026-09-27,21000.0
+E266,Bidyananda Singh,Imphal,Support,2026-10-25,20747.0
+E241,Rohit Singh,Pune,Unknown,2026-05-06,
+E275,Ananya Devi,Imphal,Sales,2026-11-11,18000.0
+E267,Priya Sharma,Kolkata,Sales,2026-04-04,13000.0
+E143,Priya Sharma,Indore,IT,2026-02-07,14004.0
+E121,Rohit Singh,Guwahati,IT,2026-10-01,
+E120,Rohit Singh,Kolkata,Sales,2026-02-11,12000.0
+E235,Priya Sharma,Bengaluru,Unknown,2026-07-10,18000.0
+E230,Ananya Devi,Imphal,IT,2026-02-13,15233.0
+E164,Rohit Singh,Bengaluru,Unknown,2026-09-21,24000.0
+E101,Priya Sharma,Guwahati,Sales,2026-03-13,13186.0
+E155,Bidyananda Singh,Imphal,IT,2026-11-27,19000.0
+E112,Priya Sharma,Bengaluru,Operations,2026-10-22,
+E276,Bidyananda Singh,Guwahati,Support,2026-04-10,20928.0
+E173,Priya Sharma,Imphal,Support,2026-08-01,
+E139,Lalrinsanga,Pune,Unknown,2026-01-08,12691.0
+E210,Bidyananda Singh,Imphal,Support,2026-08-23,
+E169,Priya Sharma,Kolkata,Unknown,2026-11-15,
+E231,Rohit Singh,Imphal,Support,2026-10-21,21000.0
+E118,Lalrinsanga,Pune,Operations,2026-11-22,24000.0
+E115,Rohit Singh,Indore,Sales,2026-09-09,
+E183,Lalrinsanga,Bengaluru,Operations,2026-11-09,
+E123,Rohit Singh,Imphal,Sales,2026-03-04,19000.0
+E131,Bidyananda Singh,Indore,Support,2026-11-11,
+E186,Bidyananda Singh,Imphal,Operations,2026-06-08,21332.0
+E150,Rohit Singh,Guwahati,IT,2026-01-21,13000.0
+E221,Lalrinsanga,Indore,Support,2026-10-09,22891.0
+E274,Bidyananda Singh,Bengaluru,Unknown,2026-04-16,22428.0
+E193,Priya Sharma,Pune,Unknown,2026-11-14,13837.0
+E271,Priya Sharma,Indore,Operations,2026-01-18,13000.0
+E214,Bidyananda Singh,Imphal,Operations,2026-02-09,
+E130,Rohit Singh,Bengaluru,Support,2026-02-27,24000.0
+E243,Bidyananda Singh,Kolkata,IT,2026-07-06,
+E237,Ananya Devi,Indore,Unknown,2026-07-04,
+E119,Ananya Devi,Indore,Operations,2026-07-04,18560.0
+E272,Bidyananda Singh,Imphal,Operations,2026-09-07,
+E218,Bidyananda Singh,Guwahati,Sales,2026-04-17,22643.0
+E125,Lalrinsanga,Bengaluru,Unknown,2026-05-17,14736.0
+E279,Rohit Singh,Indore,IT,2026-05-19,19000.0
+E117,Rohit Singh,Imphal,Unknown,2026-03-14,
+E122,Bidyananda Singh,Guwahati,IT,2026-10-12,
+E239,Ananya Devi,Imphal,Unknown,2026-01-25,18190.0
+E160,Priya Sharma,Kolkata,Support,2026-06-06,
+E273,Rohit Singh,Bengaluru,Support,2026-03-16,16000.0
+E180,Ananya Devi,Indore,Unknown,2026-09-11,
+E168,Priya Sharma,Pune,Support,2026-02-22,19763.0
+E191,Bidyananda Singh,Kolkata,Unknown,2026-03-17,23000.0
+E129,Ananya Devi,Kolkata,IT,2026-08-07,21000.0
+E114,Lalrinsanga,Indore,Support,2026-07-28,
+E134,Priya Sharma,Bengaluru,IT,2026-03-14,15191.0
+E175,Ananya Devi,Guwahati,Sales,2026-02-23,
+E197,Ananya Devi,Imphal,IT,2026-05-08,
+E252,Ananya Devi,Imphal,Unknown,2026-11-05,
+E187,Bidyananda Singh,Bengaluru,Unknown,2026-09-07,17541.0
+E154,Bidyananda Singh,Imphal,Operations,2026-01-01,15000.0
+E232,Rohit Singh,Pune,Operations,2026-07-20,14000.0
+E265,Ananya Devi,Imphal,Sales,2026-01-05,12000.0
+E249,Lalrinsanga,Indore,IT,2026-04-20,12365.0
+E228,Bidyananda Singh,Indore,Unknown,2026-03-05,14000.0
+E149,Rohit Singh,Pune,Sales,2026-10-16,13465.0
+E136,Rohit Singh,Indore,Unknown,2026-11-19,18000.0
+E133,Ananya Devi,Indore,Unknown,2026-11-12,20983.0
+E108,Lalrinsanga,Guwahati,Sales,2026-09-16,
+E215,Lalrinsanga,Kolkata,Sales,2026-04-05,22163.0
+E146,Priya Sharma,Imphal,Unknown,2026-06-18,
+E179,Rohit Singh,Guwahati,IT,2026-01-09,16000.0
+E194,Lalrinsanga,Kolkata,Operations,2026-07-09,21847.0
+E116,Rohit Singh,Kolkata,IT,2026-03-08,19000.0
+E198,Lalrinsanga,Bengaluru,Support,2026-07-12,
+E242,Priya Sharma,Indore,Support,2026-04-19,
+E124,Priya Sharma,Kolkata,Sales,2026-09-12,12000.0
+E188,Ananya Devi,Guwahati,Support,2026-03-22,22315.0
+E220,Priya Sharma,Imphal,Support,2026-04-20,21555.0
+E222,Lalrinsanga,Imphal,Support,2026-06-11,15341.0
+E195,Rohit Singh,Guwahati,Support,2026-06-21,19000.0
+E161,Bidyananda Singh,Kolkata,Sales,2026-09-25,16328.0
+E144,Rohit Singh,Kolkata,Support,2026-08-08,
+E227,Bidyananda Singh,Kolkata,IT,2026-01-14,18942.0
+E148,Bidyananda Singh,Kolkata,Unknown,2026-05-25,
+E207,Ananya Devi,Kolkata,IT,2026-11-25,
+E202,Priya Sharma,Indore,Support,2026-08-23,13854.0
+E182,Priya Sharma,Indore,IT,2026-01-18,
+E236,Bidyananda Singh,Indore,Support,2026-03-01,20019.0
+E268,Priya Sharma,Kolkata,IT,2026-02-26,
+E192,Priya Sharma,Imphal,IT,2026-01-26,12000.0
+E127,Bidyananda Singh,Kolkata,Support,2026-09-16,
+E170,Priya Sharma,Bengaluru,Unknown,2026-11-07,
+E257,Bidyananda Singh,Bengaluru,Operations,2026-01-24,23721.0
+E174,Rohit Singh,Kolkata,Unknown,2026-02-19,
+E244,Lalrinsanga,Imphal,Sales,2026-09-02,19000.0
+E113,Rohit Singh,Guwahati,Support,2026-03-20,
+E145,Priya Sharma,Kolkata,IT,2026-07-17,
+E261,Priya Sharma,Kolkata,Support,2026-04-06,
+E152,Rohit Singh,Pune,IT,2026-04-04,16290.0
+E142,Ananya Devi,Kolkata,Support,2026-08-05,
+E156,Rohit Singh,Bengaluru,IT,2026-04-08,23000.0
+E245,Priya Sharma,Guwahati,Support,2026-09-21,
+E110,Priya Sharma,Pune,Operations,2026-10-26,17000.0
+E226,Rohit Singh,Guwahati,Operations,2026-10-12,
+E103,Ananya Devi,Imphal,Unknown,2026-10-04,22000.0
+E256,Priya Sharma,Bengaluru,IT,2026-09-21,14000.0
+E233,Rohit Singh,Pune,Unknown,2026-03-13,15000.0
+E205,Ananya Devi,Kolkata,Operations,2026-07-12,
+E270,Lalrinsanga,Indore,IT,2026-05-20,
+E254,Rohit Singh,Imphal,Sales,2026-01-02,18651.0
+E224,Lalrinsanga,Indore,Unknown,2026-09-16,
+E209,Ananya Devi,Guwahati,Support,2026-05-01,24000.0
+E165,Rohit Singh,Pune,Sales,2026-01-27,22000.0
+E141,Lalrinsanga,Indore,Unknown,2026-09-18,15000.0
+E277,Ananya Devi,Indore,Unknown,2026-03-18,24000.0
+E167,Ananya Devi,Bengaluru,Unknown,2026-09-22,
+E260,Ananya Devi,Guwahati,IT,2026-05-21,13000.0
+E126,Bidyananda Singh,Guwahati,Support,2026-11-08,15197.0
+E181,Lalrinsanga,Pune,IT,2026-04-24,
+E263,Lalrinsanga,Indore,Unknown,2026-04-19,18000.0
+E217,Priya Sharma,Kolkata,Operations,2026-03-08,16609.0
+E132,Rohit Singh,Kolkata,Unknown,2026-03-01,24000.0
+E147,Priya Sharma,Guwahati,Sales,2026-09-03,15744.0
+E259,Bidyananda Singh,Bengaluru,Unknown,2026-05-23,20000.0
+E250,Lalrinsanga,Imphal,Support,2026-09-12,
+E159,Rohit Singh,Guwahati,IT,2026-08-01,
+E208,Ananya Devi,Kolkata,IT,2026-02-20,17000.0
+E251,Rohit Singh,Guwahati,Sales,2026-10-27,14207.0
+E247,Ananya Devi,Guwahati,Sales,2026-05-21,
+E211,Lalrinsanga,Indore,IT,2026-03-01,16969.0
+E163,Lalrinsanga,Indore,Sales,2026-06-24,16000.0
+E102,Ananya Devi,Pune,Operations,2026-04-02,18851.0
+E204,Bidyananda Singh,Indore,Unknown,2026-03-04,
+E255,Rohit Singh,Imphal,Unknown,2026-10-18,
+E166,Lalrinsanga,Imphal,Sales,2026-03-21,
+E137,Rohit Singh,Pune,Support,2026-01-28,15000.0
+E106,Lalrinsanga,Pune,IT,2026-02-19,19000.0
+E280,Lalrinsanga,Guwahati,IT,2026-10-05,
+E176,Priya Sharma,Indore,IT,2026-11-15,
+E262,Lalrinsanga,Indore,Sales,2026-11-23,
+E229,Rohit Singh,Pune,Support,2026-06-24,
+E157,Ananya Devi,Imphal,Operations,2026-03-01,16187.0
+E151,Lalrinsanga,Imphal,Sales,2026-08-01,
+E203,Bidyananda Singh,Bengaluru,IT,2026-09-24,22000.0
+E104,Rohit Singh,Indore,Unknown,2026-01-08,
+E109,Ananya Devi,Pune,Sales,2026-07-06,
+E219,Priya Sharma,Imphal,Sales,2026-08-27,19344.0
+E200,Ananya Devi,Imphal,Support,2026-10-16,
+E153,Priya Sharma,Pune,IT,2026-04-10,
+E172,Lalrinsanga,Guwahati,IT,2026-09-10,19640.0
+E264,Priya Sharma,Kolkata,Sales,2026-03-02,13747.0
+E128,Ananya Devi,Bengaluru,Sales,2026-10-12,
+E171,Rohit Singh,Kolkata,Operations,2026-01-16,16403.0
+E212,Rohit Singh,Guwahati,Support,2026-08-12,13000.0
+E177,Rohit Singh,Imphal,Sales,2026-06-01,17542.0
+E178,Ananya Devi,Bengaluru,Operations,2026-05-09,18000.0
